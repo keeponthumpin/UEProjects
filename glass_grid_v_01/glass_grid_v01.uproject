@@ -1,0 +1,35 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "5.3",
+	"Category": "",
+	"Description": "",
+	"Plugins": [
+		{
+			"Name": "ModelingToolsEditorMode",
+			"Enabled": true,
+			"TargetAllowList": [
+				"Editor"
+			]
+		},
+		{
+			"Name": "HDRIBackdrop",
+			"Enabled": true
+		},
+		{
+			"Name": "MIDIDevice",
+			"Enabled": true
+		},
+		{
+			"Name": "OSC",
+			"Enabled": true
+		},
+		{
+			"Name": "OSCModulationMixing",
+			"Enabled": true
+		},
+		{
+			"Name": "RemoteControlProtocolOSC",
+			"Enabled": true
+		}
+	]
+}

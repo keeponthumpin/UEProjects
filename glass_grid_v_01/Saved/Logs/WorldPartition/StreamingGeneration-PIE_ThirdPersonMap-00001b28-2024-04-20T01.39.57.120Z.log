@@ -1,0 +1,67 @@
+[+] Containers:
+ |- [+] Container: /Game/ThirdPerson/Maps/ThirdPersonMap
+ |   |- [+] ActorDescs:
+ |   |   |- Guid:0CE840B44AD890AE7765D7876FB55473 BaseClass: NativeClass:/Script/Engine.SpotLight Name:SpotLight_UAID_04421AD19BB1CDED01_1732531513 Label:SpotLight SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=334.918 Y=-55.082 Z=-1240.164), Max=(X=1725.082 Y=1335.082 Z=150.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:2076F4EB469E5671479DE58108C2342E BaseClass:/Game/BP_Hex_Grid_Generator.BP_Hex_Grid_Generator_C NativeClass:/Script/Engine.Actor Name:BP_Hex_Grid_Generator_C_UAID_04421AD19BB1D2ED01_1134606392 Label:BP_Hex_Grid_Generator SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-190.000 Y=1670.000 Z=890.000), Max=(X=810.000 Y=2720.000 Z=890.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:3A00AA1C422CE54C0BDB60BAF471BFBB BaseClass: NativeClass:/Script/Engine.PlayerStart Name:PlayerStart_0 Label:PlayerStart SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=860.000 Y=1070.000 Z=0.013), Max=(X=940.000 Y=1150.000 Z=184.013) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:6BAF4DDD444C60371492D3919DB42C97 BaseClass: NativeClass:/Script/Engine.WorldDataLayers Name:WorldDataLayers Label:WorldDataLayers SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:1
+ |   |- [+] Clusters:
+ |   |   |- [+] [  0]
+ |   |   |   |- Guid:0CE840B44AD890AE7765D7876FB55473 BaseClass: NativeClass:/Script/Engine.SpotLight Name:SpotLight_UAID_04421AD19BB1CDED01_1732531513 Label:SpotLight SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=334.918 Y=-55.082 Z=-1240.164), Max=(X=1725.082 Y=1335.082 Z=150.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [  1]
+ |   |   |   |- Guid:2076F4EB469E5671479DE58108C2342E BaseClass:/Game/BP_Hex_Grid_Generator.BP_Hex_Grid_Generator_C NativeClass:/Script/Engine.Actor Name:BP_Hex_Grid_Generator_C_UAID_04421AD19BB1D2ED01_1134606392 Label:BP_Hex_Grid_Generator SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-190.000 Y=1670.000 Z=890.000), Max=(X=810.000 Y=2720.000 Z=890.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [  2]
+ |   |   |   |- Guid:3A00AA1C422CE54C0BDB60BAF471BFBB BaseClass: NativeClass:/Script/Engine.PlayerStart Name:PlayerStart_0 Label:PlayerStart SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=860.000 Y=1070.000 Z=0.013), Max=(X=940.000 Y=1150.000 Z=184.013) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [  3]
+ |   |   |   |- Guid:6BAF4DDD444C60371492D3919DB42C97 BaseClass: NativeClass:/Script/Engine.WorldDataLayers Name:WorldDataLayers Label:WorldDataLayers SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:1
+ |- ContainerInstances:
+ |- [+] MainContainer:
+ |   |-        ID: 00000000000000000000000000000000
+ |   |-  ParentID: 00000000000000000000000000000000
+ |   |-    Bounds: IsValid=false, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000)
+ |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+ |   |- Container: /Game/ThirdPerson/Maps/ThirdPersonMap
+----------------------------------------------------------------------------------------------------------------
+ThirdPersonMap - Persistent Level
+----------------------------------------------------------------------------------------------------------------
+[+] Content of ThirdPersonMap Persistent Level
+ |- Always loaded Actor Count: 11 
+ |- Actor Path: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.AbstractNavData-Default
+ |- Actor Package: /Game/ThirdPerson/Maps/ThirdPersonMap
+ |- Actor Path: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Hex_Grid_Generator_C_UAID_04421AD19BB1D2ED01_1134606392
+ |- Actor Package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/36/K7E3BJQ7GC54J3CXY246GU
+ |- Actor Path: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Brush_0
+ |- Actor Package: /Game/ThirdPerson/Maps/ThirdPersonMap
+ |- Actor Path: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.DefaultPhysicsVolume_0
+ |- Actor Package: /Game/ThirdPerson/Maps/ThirdPersonMap
+ |- Actor Path: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.GameplayDebuggerPlayerManager_0
+ |- Actor Package: /Game/ThirdPerson/Maps/ThirdPersonMap
+ |- Actor Path: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.PlayerStart_0
+ |- Actor Package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/DE/SWSI13675DVYIZ0N4NF7Y3
+ |- Actor Path: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.SpotLight_UAID_04421AD19BB1CDED01_1732531513
+ |- Actor Package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/QB/UKGI5KKEZSC1KU4KB2497N
+ |- Actor Path: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.ThirdPersonExampleMap_C_0
+ |- Actor Package: /Game/ThirdPerson/Maps/ThirdPersonMap
+ |- Actor Path: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.WorldDataLayers
+ |- Actor Package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/43/HYQWORMY4JDQ5X3OKZXFLC
+ |- Actor Path: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.WorldInfo_0
+ |- Actor Package: /Game/ThirdPerson/Maps/ThirdPersonMap
+ |- Actor Path: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.WorldPartitionMiniMap_0
+ |- Actor Package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/FR/LBG6LPN5JCL3FMVSI2CK6R
+
+----------------------------------------------------------------------------------------------------------------
+ThirdPersonMap - Runtime Spatial Hash - Streaming Grid - MainGrid
+----------------------------------------------------------------------------------------------------------------
+            Origin: X=0.000 Y=0.000 Z=0.000
+         Cell Size: 12800
+      World Bounds: IsValid=false, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000)
+     Loading Range: 25600.00
+Block Slow Loading: No
+ ClientOnlyVisible: No
+            Origin: X=0.000 Y=0.000 Z=0.000
+
+[+] Grid Levels: 1
+ |- Level  0: Cell Count    0 | Cell Size   12800 | Actor Count    0 (0.0%)
+
+[+] Content of Grid Level 0
+
